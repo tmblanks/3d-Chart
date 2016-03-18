@@ -1,0 +1,62 @@
+body {
+    font-family: 'geomanist_regularregular';
+    background-color: #ffffff;
+    position: relative;
+    margin: 0px;
+    font-size: 12px;
+    padding: 0px;
+    letter-spacing: 0.0625em;
+}
+
+.caption-label{
+    font-weight: bold;
+}
+
+.header .logo h1{
+    font-family: 'geomanist_regularregular';
+    font-size:30px;
+    margin:0px;
+    padding:12px 0px;
+    color:#ffffff;
+    text-align: center;
+    vertical-align: middle;
+    height: 100%;
+    line-height: 30px;                
+}
+
+.numeric-label{
+    text-align: right;
+}
+
+.numeric-table{
+    width: 65px;
+}
+
+.panel-title-custom{                
+    padding-left: 190px; 
+    font-size: 16px;
+}
+
+.spacer-text{
+    font-size: 7px;
+    line-height: 8px;
+}
+
+.table-label{
+    font-weight: bold;
+    padding-right: 10px;
+    text-align: right;
+}
+
+slider {
+    margin: 10px;
+}            
+.ui-slider-horizontal {
+    height: 8px;
+    width: 300px;
+}
+.ui-slider .ui-slider-handle {
+    height: 15px;
+    width: 5px;
+    padding-left: 5px;
+}               

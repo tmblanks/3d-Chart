@@ -5,9 +5,7 @@
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
        "deductibleColor" : "#000000",
-       "including" : [],
-       "d" : "80",
-       "h" : "20"
+       "including" : []
     },
     {
        "id" : 2,

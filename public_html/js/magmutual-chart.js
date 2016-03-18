@@ -68,6 +68,16 @@ function loadMagProduct(product){
    return magProduct;
 }
 
+function populateSelectedPoint(point){
+    
+    $('#lob').html(point.group);
+    $('#product').html(point.name);
+    $('#occurrenceLimit').html("$" + $.number(point.productMag.occurrenceLimit));
+    $('#aggregateLimit').html("$" + $.number(point.productMag.aggregateLimit));
+    $('#deductible').html("$" + $.number(point.productMag.deductible));
+    
+}
+
 loadMappingData();
 
 
