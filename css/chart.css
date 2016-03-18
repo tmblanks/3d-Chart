@@ -1,0 +1,10 @@
+/* 
+    Created on : Mar 4, 2016, 8:40:59 AM
+    Author     : tblanks
+*/
+
+
+
+.highcharts-tooltip {
+  z-index: 9998;
+}
