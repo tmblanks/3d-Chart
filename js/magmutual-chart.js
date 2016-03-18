@@ -17,8 +17,6 @@ function loadMappingData(){
     jQuery.ajaxSetup({async:false});
 
     $.getJSON("data/MagProductsMapping.json", function (data) {
-        console.info("in the getting the json loop");
-        
         
         $.each( data.products, function( i, product) {
             

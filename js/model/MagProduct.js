@@ -24,9 +24,9 @@ function MagProduct(){
 MagProduct.prototype.buildDisplay = function(){    
     this.display = {};
     
-    this.display["Occurrence Limit"] = "$" + this.occurrenceLimit;
-    this.display["Aggregate Limit"] = "$" + this.aggregateLimit;
-    this.display["Deductible"] = "$" + this.deductible;    
+    this.display["Occurrence Limit"] = "$" + $.number(this.occurrenceLimit);
+    this.display["Aggregate Limit"] = "$" + $.number(this.aggregateLimit);
+    this.display["Deductible"] = "$" + $.number(this.deductible);    
 };
 
 MagProduct.prototype.toString = function(){
