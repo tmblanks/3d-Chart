@@ -30,7 +30,7 @@ $(function () {
 		      },
 		      options3d: {
 		        enabled: true,
-		        alpha: 50,
+		        alpha: 45,
 		        beta: 0
 		      }
 		    },
@@ -43,7 +43,8 @@ $(function () {
                         },
 		    	formatter: function() {
 		    		var d = this.point.display;
-		    		return '<div class="tooltip" style="border: 2px solid ' + this.color + ';"><span style="font-size: 10px">' + this.key + '</span><br/><b>Occurrence Limit</b>' + d['Occurrence Limit'] + '<br/><b>Aggregate Limit: </b>' + d['Aggregate Limit'] + '<br/><b>Deductible: </b>' + d['Deductible']+ '</div>';
+                                //alert('<div class="tooltip" style="border: 2px solid ' + this.color + '; color: #000000;"><span style="font-size: 10px">' + this.key + '</span><br/><b>Occurrence Limit</b>' + d['Occurrence Limit'] + '<br/><b>Aggregate Limit: </b>' + d['Aggregate Limit'] + '<br/><b>Deductible: </b>' + d['Deductible']+ '</div>');
+		    		return '<div class="tooltip" style="border: 2px solid ' + this.color + ';"><span style="font-size: 10px; color: #000000; font-family: arial;">' + this.key + '</span><br/><b>Occurrence Limit</b>' + d['Occurrence Limit'] + '<br/><b>Aggregate Limit: </b>' + d['Aggregate Limit'] + '<br/><b>Deductible: </b>' + d['Deductible']+ '</div>';
 		    	}
 		    },
 		    plotOptions: {
@@ -68,6 +69,7 @@ $(function () {
                               events: {
                                   click: function(event){
                                       var point = event.point;
+                                      populateSelectedPoint(point);
                                       
                                   }
                               }

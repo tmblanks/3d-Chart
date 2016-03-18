@@ -11,8 +11,8 @@ function MagProduct(){
     this.group = "";
     this.color = "";
     this.deductibleColor = "";
-    this.occurrenceLimit = "1,000,000";
-    this.aggregateLimit = "3,000,000";
+    this.occurrenceLimit = "1000000";
+    this.aggregateLimit = "3000000";
     this.deductible = "0";
     this.y = 20;
     this.d = 80;

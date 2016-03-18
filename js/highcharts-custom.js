@@ -163,7 +163,7 @@
           chart.watermark.destroy();
         }
 
-        chart.watermark = r.image(url, center[0] - (width / 2) + left, center[1] - (height / 2) + 50, width, height)
+        chart.watermark = r.image(url, center[0] - (width / 2) + left, center[1] - (height / 2) + 10, width, height)
         .attr({
           zIndex:10
         })
@@ -175,7 +175,7 @@
     addSlider: function(id) {
       var $slider = $('#' + id),
           chart = this;
-
+  
       if ($slider.length) {
         $slider.slider({
           min: 0,
