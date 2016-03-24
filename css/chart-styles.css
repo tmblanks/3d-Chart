@@ -37,6 +37,10 @@ body {
     font-size: 16px;
 }
 
+.right-padding-spacer{
+    padding-right: 5px;
+}
+
 .spacer-text{
     font-size: 7px;
     line-height: 8px;
@@ -47,6 +51,11 @@ body {
     padding-right: 10px;
     text-align: right;
 }
+
+.top-padding-spacer{
+    padding-top: 10px;
+}
+
 
 slider {
     margin: 10px;
