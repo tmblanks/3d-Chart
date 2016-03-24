@@ -172,7 +172,7 @@
     },
     {
        "id" : 20,
-       "product" : "Business Of Medicine",
+       "product" : "Commercial General Liability",
        "name" : "Commercial General Liability",
        "group" : "Business Of Medicine",
        "color" : "#0092bd",
@@ -181,8 +181,7 @@
     },
     {
        "id" : 21,
-       "product" : "Business Of Medicine",
-       "product" : "Medical Professional Liability",
+       "product" : "Commercial Transportation",
        "name" : "Commercial Transportation",
        "group" : "Business Of Medicine",
        "color" : "#2cc7f4",
@@ -191,7 +190,7 @@
     },
     {
        "id" : 22,
-       "product" : "Business Of Medicine",
+       "product" : "Commerical Umbrella",
        "name" : "Commerical Umbrella",
        "group" : "Business Of Medicine",
        "color" : "#0681a5",
@@ -200,7 +199,7 @@
     },
     {
        "id" : 23,
-       "product" : "Business Of Medicine",
+       "product" : "Directors and Officers Liability",
        "name" : "Directors and Officers Liability",
        "group" : "Business Of Medicine",
        "color" : "#3f97b0",
@@ -213,7 +212,7 @@
     },
     {
        "id" : 24,
-       "product" : "Business Of Medicine",
+       "product" : "Employment Practices Liability",
        "name" : "Employment Practices Liability",
        "group" : "Business Of Medicine",
        "color" : "#7ad9f4",
@@ -222,7 +221,7 @@
     },
     {
        "id" : 25,
-       "product" : "Business Of Medicine",
+       "product" : "Errors and Omissions",
        "name" : "Errors and Omissions",
        "group" : "Business Of Medicine",
        "color" : "#03556d",
@@ -233,7 +232,7 @@
     },
     {
        "id" : 26,
-       "product" : "Business Of Medicine",
+       "product" : "Pollution",
        "name" : "Pollution",
        "group" : "Business Of Medicine",
        "color" : "#099ec8",
@@ -242,7 +241,7 @@
     },
     {
        "id" : 27,
-       "product" : "Business Of Medicine",
+       "product" : "Pandemic",
        "name" : "Pandemic",
        "group" : "Business Of Medicine",
        "color" : "#099ecc",
@@ -251,7 +250,7 @@
     },
     {
        "id" : 28,
-       "product" : "Business Of Medicine",
+       "product" : "Workers' Compensation",
        "name" : "Workers' Compensation",
        "group" : "Business Of Medicine",
        "color" : "#85d8f2",
@@ -260,7 +259,7 @@
     },
     {
        "id" : 29,
-       "product" : "Business Of Medicine",
+       "product" : "Workplace Violence",
        "name" : "Workplace Violence",
        "group" : "Business Of Medicine",
        "color" : "#036886",
@@ -269,8 +268,8 @@
     },
     {
        "id" : 30,
-       "product" : "Business Of Medicine",
-       "name" : "Cyber Liability",
+       "product" : "Medical Professional Liability and Cyber Plus",
+       "name" : "Cyber",
        "group" : "Regulation Of Medicine",
        "color" : "#F24F00",
        "deductibleColor" : "#000000",
@@ -291,8 +290,8 @@
     },
     {
        "id" : 31,
-       "product" : "Business Of Medicine",
-       "name" : "Regulatory Coverage",
+       "product" : "Medical Professional Liability and Cyber Plus",
+       "name" : "Regulatory",
        "group" : "Regulation Of Medicine",
        "color" : "#c34001",
        "deductibleColor" : "#000000",
