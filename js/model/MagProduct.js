@@ -8,6 +8,7 @@
 function MagProduct(){
     this.id = "";
     this.name = "";
+    this.product = "";
     this.group = "";
     this.color = "";
     this.deductibleColor = "";
@@ -36,6 +37,7 @@ MagProduct.prototype.toString = function(){
    str += "{id: " + this.id + "}, ";
    
    str += "{name: " + this.name + "}, ";
+   str += "{product: " + this.product + "}, ";   
    str += "{group: " + this.group + "}, ";
    str += "{color: " + this.color + "}, ";
    str += "{deductibleColor: " + this.deductibleColor + "}, ";

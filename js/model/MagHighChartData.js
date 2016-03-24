@@ -7,6 +7,7 @@
 
 function MagHighChartData(){
     this.name = "";
+    this.product = "";    
     this.group = "";
     this.color = "";
     this.deductibleColor = "";
@@ -20,6 +21,7 @@ function MagHighChartData(){
 
 MagHighChartData.prototype.addMagProduct = function(magProduct){       
     this.name = magProduct.name;
+    this.product = magProduct.product;
     this.group = magProduct.group;
     this.display = magProduct.display;
     this.productMag = magProduct;

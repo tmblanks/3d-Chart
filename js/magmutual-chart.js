@@ -40,6 +40,7 @@ function loadMagProduct(product){
    var magProduct = new MagProduct();
    
    magProduct.id = product.id;
+   magProduct.product = product.product;
    magProduct.name = product.name;
    magProduct.group = product.group;
    magProduct.color = product.color;
@@ -69,7 +70,8 @@ function loadMagProduct(product){
 function populateSelectedPoint(point){
     
     $('#lob').html(point.group);
-    $('#product').html(point.name);
+    $('#product').html(point.product);
+    $('#riskExposure').html(point.name);
     $('#occurrenceLimit').html("$" + $.number(point.productMag.occurrenceLimit));
     $('#aggregateLimit').html("$" + $.number(point.productMag.aggregateLimit));
     $('#deductible').html("$" + $.number(point.productMag.deductible));

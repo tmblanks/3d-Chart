@@ -1,6 +1,7 @@
 {
     "products": [{
        "id" : 1,
+       "product" : "Medical Professional Liability",
        "name" : "Clinical Trials",
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
@@ -9,6 +10,7 @@
     },
     {
        "id" : 2,
+       "product" : "Medical Professional Liability",
        "name" : "Electronic Media",
        "group" : "Practice Of Medicine",
        "color" : "#003da5",            
@@ -17,6 +19,7 @@
     },
     {
        "id" : 3,
+       "product" : "Medical Professional Liability",
        "name" : "Emergency First Aid",
        "group" : "Practice Of Medicine",
        "color" : "#003da5", 
@@ -25,6 +28,7 @@
     },
     {
        "id" : 4,
+       "product" : "Medical Professional Liability",
        "name" : "Good Samaritian Acts",
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
@@ -33,6 +37,7 @@
     },
     {
        "id" : 5,
+       "product" : "Medical Professional Liability",
        "name" : "Informed Consent",
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
@@ -41,6 +46,7 @@
     },
     {
        "id" : 6,
+       "product" : "Medical Professional Liability",
        "name" : "Contractural Liability",
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
@@ -49,6 +55,7 @@
     },
     {
        "id" : 7,
+       "product" : "Medical Professional Liability",
        "name" : "Cyber Liability",
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
@@ -57,6 +64,7 @@
     },
     {
        "id" : 8,
+       "product" : "Medical Professional Liability",
        "name" : "Limited Sexual Misconduct",
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
@@ -65,6 +73,7 @@
     },
     {
        "id" : 9,
+       "product" : "Medical Professional Liability",
        "name" : "Medical Office Premises Liability",
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
@@ -73,6 +82,7 @@
     },
     {
        "id" : 10,
+       "product" : "Medical Professional Liability",
        "name" : "Management of Medical Records and Personal Medical Information",
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
@@ -81,6 +91,7 @@
     },
     {
        "id" : 11,
+       "product" : "Medical Professional Liability",
        "name" : "Medical Director Administrative Services",
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
@@ -89,6 +100,7 @@
     },
     {
        "id" : 12,
+       "product" : "Medical Professional Liability",
        "name" : "Non-Medical and Specified Medical Employees",
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
@@ -97,6 +109,7 @@
     },
     {
        "id" : 13,
+       "product" : "Medical Professional Liability",
        "name" : "Organization Shared Limit",
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
@@ -105,6 +118,7 @@
     },
     {
        "id" : 14,
+       "product" : "Medical Professional Liability",
        "name" : "Peer Review and Quality Assurance",
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
@@ -113,6 +127,7 @@
     },
     {
        "id" : 15,
+       "product" : "Medical Professional Liability",
        "name" : "Personal Injury",
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
@@ -121,6 +136,7 @@
     },
     {
        "id" : 16,
+       "product" : "Medical Professional Liability",
        "name" : "Refusal to Treat or Patient Abandonment",
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
@@ -129,6 +145,7 @@
     },
     {
        "id" : 17,
+       "product" : "Medical Professional Liability",
        "name" : "Regulatory Defense",
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
@@ -137,6 +154,7 @@
     },
     {
        "id" : 18,
+       "product" : "Medical Professional Liability",
        "name" : "Supervision of Medical Students and Residents",
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
@@ -145,6 +163,7 @@
     },
     {
        "id" : 19,
+       "product" : "Medical Professional Liability",
        "name" : "Volunteer Work",
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
@@ -153,6 +172,7 @@
     },
     {
        "id" : 20,
+       "product" : "Business Of Medicine",
        "name" : "Commercial General Liability",
        "group" : "Business Of Medicine",
        "color" : "#0092bd",
@@ -161,6 +181,8 @@
     },
     {
        "id" : 21,
+       "product" : "Business Of Medicine",
+       "product" : "Medical Professional Liability",
        "name" : "Commercial Transportation",
        "group" : "Business Of Medicine",
        "color" : "#2cc7f4",
@@ -169,6 +191,7 @@
     },
     {
        "id" : 22,
+       "product" : "Business Of Medicine",
        "name" : "Commerical Umbrella",
        "group" : "Business Of Medicine",
        "color" : "#0681a5",
@@ -177,6 +200,7 @@
     },
     {
        "id" : 23,
+       "product" : "Business Of Medicine",
        "name" : "Directors and Officers Liability",
        "group" : "Business Of Medicine",
        "color" : "#3f97b0",
@@ -189,6 +213,7 @@
     },
     {
        "id" : 24,
+       "product" : "Business Of Medicine",
        "name" : "Employment Practices Liability",
        "group" : "Business Of Medicine",
        "color" : "#7ad9f4",
@@ -197,6 +222,7 @@
     },
     {
        "id" : 25,
+       "product" : "Business Of Medicine",
        "name" : "Errors and Omissions",
        "group" : "Business Of Medicine",
        "color" : "#03556d",
@@ -207,6 +233,7 @@
     },
     {
        "id" : 26,
+       "product" : "Business Of Medicine",
        "name" : "Pollution",
        "group" : "Business Of Medicine",
        "color" : "#099ec8",
@@ -215,6 +242,7 @@
     },
     {
        "id" : 27,
+       "product" : "Business Of Medicine",
        "name" : "Pandemic",
        "group" : "Business Of Medicine",
        "color" : "#099ecc",
@@ -223,6 +251,7 @@
     },
     {
        "id" : 28,
+       "product" : "Business Of Medicine",
        "name" : "Workers' Compensation",
        "group" : "Business Of Medicine",
        "color" : "#85d8f2",
@@ -231,6 +260,7 @@
     },
     {
        "id" : 29,
+       "product" : "Business Of Medicine",
        "name" : "Workplace Violence",
        "group" : "Business Of Medicine",
        "color" : "#036886",
@@ -239,6 +269,7 @@
     },
     {
        "id" : 30,
+       "product" : "Business Of Medicine",
        "name" : "Cyber Liability",
        "group" : "Regulation Of Medicine",
        "color" : "#F24F00",
@@ -260,6 +291,7 @@
     },
     {
        "id" : 31,
+       "product" : "Business Of Medicine",
        "name" : "Regulatory Coverage",
        "group" : "Regulation Of Medicine",
        "color" : "#c34001",
