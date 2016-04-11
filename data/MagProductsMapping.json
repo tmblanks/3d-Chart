@@ -6,6 +6,19 @@
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#003da5",
+           "h" : "5"
+       },
+       {
+           "color" : "#003da5",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Clin. Trials",       
        "including" : []
     },
     {
@@ -15,6 +28,19 @@
        "group" : "Practice Of Medicine",
        "color" : "#003da5",            
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Elect. Media",       
        "including" : []
     },
     {
@@ -24,6 +50,19 @@
        "group" : "Practice Of Medicine",
        "color" : "#003da5", 
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#003da5",
+           "h" : "10"
+       },
+       {
+           "color" : "#003da5",
+           "h" : "5"
+       },
+       {
+           "color" : "#003da5",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Emer. First Aid",       
        "including" : []
     },
     {
@@ -33,6 +72,19 @@
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#003da5",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Good Samar. Acts",       
        "including" : []
     },
     {
@@ -42,6 +94,19 @@
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Informed Consent",       
        "including" : []
     },
     {
@@ -51,6 +116,19 @@
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Contract. Liabil.",       
        "including" : []
     },
     {
@@ -60,6 +138,19 @@
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Cyber Liability",       
        "including" : []
     },
     {
@@ -69,6 +160,19 @@
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Limtd. Sexual Miscdt.",       
        "including" : []
     },
     {
@@ -78,6 +182,19 @@
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Med. Office Premises",       
        "including" : []
     },
     {
@@ -87,6 +204,19 @@
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Mgmt Med. Records",       
        "including" : []
     },
     {
@@ -96,6 +226,19 @@
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Med. Dir. Admin.",       
        "including" : []
     },
     {
@@ -105,6 +248,19 @@
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Non-Med and Spec. Med Emp.",       
        "including" : []
     },
     {
@@ -114,6 +270,19 @@
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Informed Consent",       
        "including" : []
     },
     {
@@ -123,6 +292,19 @@
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#003da5",
+           "h" : "5"
+       },
+       {
+           "color" : "#003da5",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Peer Review",       
        "including" : []
     },
     {
@@ -132,6 +314,19 @@
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#003da5",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Personal Injury",       
        "including" : []
     },
     {
@@ -141,6 +336,19 @@
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#003da5",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Pat Abandonment",       
        "including" : []
     },
     {
@@ -150,6 +358,18 @@
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#003da5",
+           "h" : "5"
+       }],
        "including" : []
     },
     {
@@ -159,6 +379,19 @@
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#003da5",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Sup Med Stdnts",          
        "including" : []
     },
     {
@@ -168,6 +401,19 @@
        "group" : "Practice Of Medicine",
        "color" : "#003da5",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#003da5",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Vol Work",          
        "including" : []
     },
     {
@@ -177,6 +423,19 @@
        "group" : "Business Of Medicine",
        "color" : "#0092bd",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#0092bd",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Commercial GL",          
        "including" : []
     },
     {
@@ -186,6 +445,19 @@
        "group" : "Business Of Medicine",
        "color" : "#2cc7f4",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#2cc7f4",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Commerical Trans",          
        "including" : []
     },
     {
@@ -195,6 +467,19 @@
        "group" : "Business Of Medicine",
        "color" : "#0681a5",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#0681a5",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Commerical Umb",                 
        "including" : []
     },
     {
@@ -204,6 +489,19 @@
        "group" : "Business Of Medicine",
        "color" : "#3f97b0",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#3f97b0",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Dir and Offirs",                 
        "including" : [
           "Fiduciary Liability",
           "Employee Benefits",
@@ -217,6 +515,19 @@
        "group" : "Business Of Medicine",
        "color" : "#7ad9f4",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#7ad9f4",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Emp Practices",                 
        "including" : []
     },
     {
@@ -226,6 +537,19 @@
        "group" : "Business Of Medicine",
        "color" : "#03556d",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#03556d",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Errors and Omiss.",                 
        "including" : [
           "Managed Care"    
        ]
@@ -237,6 +561,19 @@
        "group" : "Business Of Medicine",
        "color" : "#099ec8",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#099ec8",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Pollution",                 
        "including" : []
     },
     {
@@ -246,6 +583,19 @@
        "group" : "Business Of Medicine",
        "color" : "#099ecc",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#099ecc",
+           "h" : "5"
+       }],
+       "sliceDisplay" : "Pandemic",                 
        "including" : []
     },
     {
@@ -255,6 +605,19 @@
        "group" : "Business Of Medicine",
        "color" : "#85d8f2",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#85d8f2",
+           "h" : "5"
+       }],       
+       "sliceDisplay" : "Work Comp.",                    
        "including" : []
     },
     {
@@ -264,6 +627,19 @@
        "group" : "Business Of Medicine",
        "color" : "#036886",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#036886",
+           "h" : "5"
+       }],       
+       "sliceDisplay" : "Work Violence.",                    
        "including" : []
     },
     {
@@ -273,6 +649,19 @@
        "group" : "Regulation Of Medicine",
        "color" : "#F24F00",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#F24F00",
+           "h" : "5"
+       }],       
+       "sliceDisplay" : "Cyber Plus",                           
        "including" : [
           "Cyber Extortion",
           "Cyber Terrorism",
@@ -295,6 +684,19 @@
        "group" : "Regulation Of Medicine",
        "color" : "#c34001",
        "deductibleColor" : "#000000",
+       "deductible" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#c34001",
+           "h" : "5"
+       }],       
+       "sliceDisplay" : "Regulatory",                           
        "including" : [
           "Billing Errors",
           "EMTALA",
