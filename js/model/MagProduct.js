@@ -19,8 +19,30 @@ function MagProduct(){
     this.d = 80;
     this.h = 40;
     this.including = [];
+    this.deductibles = [];
+    this.sliceDisplay = "";
     this.display = {};
 }
+
+MagProduct.prototype.loadDeductible = function(d){
+   this.deductibles.push(d);  
+};
+
+MagProduct.prototype.loadDeductibles = function(deds){    
+   tempArray = new Array(); 
+   
+   $.each(deds, function(i, value){
+        d = new MagHighChartDeductible();
+        
+        d.id = i;
+        d.color = value.color;
+        d.h = value.h;
+        
+        tempArray.push(d);
+   });
+   
+   this.deductibles = tempArray;
+};
 
 MagProduct.prototype.buildDisplay = function(){    
     this.display = {};
@@ -37,6 +59,7 @@ MagProduct.prototype.toString = function(){
    str += "{id: " + this.id + "}, ";
    
    str += "{name: " + this.name + "}, ";
+   str += "{sliceDisplay: " + this.sliceDisplay + "}, ";
    str += "{product: " + this.product + "}, ";   
    str += "{group: " + this.group + "}, ";
    str += "{color: " + this.color + "}, ";
@@ -47,6 +70,19 @@ MagProduct.prototype.toString = function(){
    str += "{y: " + this.y + "}, ";
    str += "{d: " + this.d + "}, ";
    str += "{h: " + this.h + "}, ";
+   
+   str += "{deductibles: {";
+
+   $.each(this.deductibles, function(i, value){
+      
+      str += "{" + i + ": " + value + "}";
+            
+      if(i < displayLength - 1)
+         str += ", ";       
+   });
+
+   str += "}},";
+    
    str += "{including: {";
    
    $.each(this.including, function(i, value){
@@ -57,7 +93,7 @@ MagProduct.prototype.toString = function(){
          str += ", ";       
    });
 
-   str += "}}";
+   str += "}},";
    
    this.buildDisplay();
    var displayLength = this.display.length;

@@ -4,18 +4,19 @@
        "product" : "Medical Professional Liability",
        "name" : "Clinical Trials",
        "group" : "Practice Of Medicine",
-       "color" : "#003da5",
+       "color" : "#1a2be6",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "100,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
        {
-           "color" : "#003da5",
+           "color" : "#1a2be6",
            "h" : "5"
        },
        {
-           "color" : "#003da5",
+           "color" : "#1a2be6",
            "h" : "5"
        }],
        "sliceDisplay" : "Clin. Trials",       
@@ -26,9 +27,10 @@
        "product" : "Medical Professional Liability",
        "name" : "Electronic Media",
        "group" : "Practice Of Medicine",
-       "color" : "#003da5",            
+       "color" : "#1a2be6",            
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "200,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -48,18 +50,19 @@
        "product" : "Medical Professional Liability",
        "name" : "Emergency First Aid",
        "group" : "Practice Of Medicine",
-       "color" : "#003da5", 
+       "color" : "#1a2be6", 
        "deductibleColor" : "#000000",
-       "deductible" : [{
-           "color" : "#003da5",
+       "decutible" : "0",
+       "deductibles" : [{
+           "color" : "#1a2be6",
            "h" : "10"
        },
        {
-           "color" : "#003da5",
+           "color" : "#1a2be6",
            "h" : "5"
        },
        {
-           "color" : "#003da5",
+           "color" : "#1a2be6",
            "h" : "5"
        }],
        "sliceDisplay" : "Emer. First Aid",       
@@ -70,9 +73,10 @@
        "product" : "Medical Professional Liability",
        "name" : "Good Samaritian Acts",
        "group" : "Practice Of Medicine",
-       "color" : "#003da5",
+       "color" : "#1a2be6",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "150,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -81,7 +85,7 @@
            "h" : "5"
        },
        {
-           "color" : "#003da5",
+           "color" : "#1a2be6",
            "h" : "5"
        }],
        "sliceDisplay" : "Good Samar. Acts",       
@@ -92,9 +96,10 @@
        "product" : "Medical Professional Liability",
        "name" : "Informed Consent",
        "group" : "Practice Of Medicine",
-       "color" : "#003da5",
+       "color" : "#1a2be6",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "200,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -114,9 +119,10 @@
        "product" : "Medical Professional Liability",
        "name" : "Contractural Liability",
        "group" : "Practice Of Medicine",
-       "color" : "#003da5",
+       "color" : "#1a2be6",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "200,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -136,9 +142,10 @@
        "product" : "Medical Professional Liability",
        "name" : "Cyber Liability",
        "group" : "Practice Of Medicine",
-       "color" : "#003da5",
+       "color" : "#1a2be6",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "200,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -158,9 +165,10 @@
        "product" : "Medical Professional Liability",
        "name" : "Limited Sexual Misconduct",
        "group" : "Practice Of Medicine",
-       "color" : "#003da5",
+       "color" : "#1a2be6",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "200,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -180,9 +188,10 @@
        "product" : "Medical Professional Liability",
        "name" : "Medical Office Premises Liability",
        "group" : "Practice Of Medicine",
-       "color" : "#003da5",
+       "color" : "#1a2be6",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "200,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -202,9 +211,10 @@
        "product" : "Medical Professional Liability",
        "name" : "Management of Medical Records and Personal Medical Information",
        "group" : "Practice Of Medicine",
-       "color" : "#003da5",
+       "color" : "#1a2be6",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "200,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -224,9 +234,10 @@
        "product" : "Medical Professional Liability",
        "name" : "Medical Director Administrative Services",
        "group" : "Practice Of Medicine",
-       "color" : "#003da5",
+       "color" : "#1a2be6",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "200,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -246,9 +257,10 @@
        "product" : "Medical Professional Liability",
        "name" : "Non-Medical and Specified Medical Employees",
        "group" : "Practice Of Medicine",
-       "color" : "#003da5",
+       "color" : "#1a2be6",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "200,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -268,9 +280,10 @@
        "product" : "Medical Professional Liability",
        "name" : "Organization Shared Limit",
        "group" : "Practice Of Medicine",
-       "color" : "#003da5",
+       "color" : "#1a2be6",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "200,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -290,18 +303,19 @@
        "product" : "Medical Professional Liability",
        "name" : "Peer Review and Quality Assurance",
        "group" : "Practice Of Medicine",
-       "color" : "#003da5",
+       "color" : "#1a2be6",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "200,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
        {
-           "color" : "#003da5",
+           "color" : "#1a2be6",
            "h" : "5"
        },
        {
-           "color" : "#003da5",
+           "color" : "#1a2be6",
            "h" : "5"
        }],
        "sliceDisplay" : "Peer Review",       
@@ -312,9 +326,10 @@
        "product" : "Medical Professional Liability",
        "name" : "Personal Injury",
        "group" : "Practice Of Medicine",
-       "color" : "#003da5",
+       "color" : "#1a2be6",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "150,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -323,7 +338,7 @@
            "h" : "5"
        },
        {
-           "color" : "#003da5",
+           "color" : "#1a2be6",
            "h" : "5"
        }],
        "sliceDisplay" : "Personal Injury",       
@@ -334,9 +349,10 @@
        "product" : "Medical Professional Liability",
        "name" : "Refusal to Treat or Patient Abandonment",
        "group" : "Practice Of Medicine",
-       "color" : "#003da5",
+       "color" : "#1a2be6",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "150,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -345,7 +361,7 @@
            "h" : "5"
        },
        {
-           "color" : "#003da5",
+           "color" : "#1a2be6",
            "h" : "5"
        }],
        "sliceDisplay" : "Pat Abandonment",       
@@ -356,9 +372,10 @@
        "product" : "Medical Professional Liability",
        "name" : "Regulatory Defense",
        "group" : "Practice Of Medicine",
-       "color" : "#003da5",
+       "color" : "#1a2be6",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "150,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -367,7 +384,7 @@
            "h" : "5"
        },
        {
-           "color" : "#003da5",
+           "color" : "#1a2be6",
            "h" : "5"
        }],
        "including" : []
@@ -377,9 +394,10 @@
        "product" : "Medical Professional Liability",
        "name" : "Supervision of Medical Students and Residents",
        "group" : "Practice Of Medicine",
-       "color" : "#003da5",
+       "color" : "#1a2be6",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "150,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -388,7 +406,7 @@
            "h" : "5"
        },
        {
-           "color" : "#003da5",
+           "color" : "#1a2be6",
            "h" : "5"
        }],
        "sliceDisplay" : "Sup Med Stdnts",          
@@ -399,9 +417,10 @@
        "product" : "Medical Professional Liability",
        "name" : "Volunteer Work",
        "group" : "Practice Of Medicine",
-       "color" : "#003da5",
+       "color" : "#1a2be6",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "150,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -410,7 +429,7 @@
            "h" : "5"
        },
        {
-           "color" : "#003da5",
+           "color" : "#1a2be6",
            "h" : "5"
        }],
        "sliceDisplay" : "Vol Work",          
@@ -421,9 +440,10 @@
        "product" : "Commercial General Liability",
        "name" : "Commercial General Liability",
        "group" : "Business Of Medicine",
-       "color" : "#0092bd",
+       "color" : "#1999ec",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "150,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -432,7 +452,7 @@
            "h" : "5"
        },
        {
-           "color" : "#0092bd",
+           "color" : "#1999ec",
            "h" : "5"
        }],
        "sliceDisplay" : "Commercial GL",          
@@ -443,9 +463,10 @@
        "product" : "Commercial Transportation",
        "name" : "Commercial Transportation",
        "group" : "Business Of Medicine",
-       "color" : "#2cc7f4",
+       "color" : "#1fa9f0",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "150,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -454,7 +475,7 @@
            "h" : "5"
        },
        {
-           "color" : "#2cc7f4",
+           "color" : "#1fa9f0",
            "h" : "5"
        }],
        "sliceDisplay" : "Commerical Trans",          
@@ -462,12 +483,13 @@
     },
     {
        "id" : 22,
-       "product" : "Commerical Umbrella",
-       "name" : "Commerical Umbrella",
+       "product" : "Commercial Umbrella",
+       "name" : "Commercial Umbrella",
        "group" : "Business Of Medicine",
-       "color" : "#0681a5",
+       "color" : "#1399ff",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "150,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -476,7 +498,7 @@
            "h" : "5"
        },
        {
-           "color" : "#0681a5",
+           "color" : "#1399ff",
            "h" : "5"
        }],
        "sliceDisplay" : "Commerical Umb",                 
@@ -487,9 +509,10 @@
        "product" : "Directors and Officers Liability",
        "name" : "Directors and Officers Liability",
        "group" : "Business Of Medicine",
-       "color" : "#3f97b0",
+       "color" : "#199be2",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "150,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -498,7 +521,7 @@
            "h" : "5"
        },
        {
-           "color" : "#3f97b0",
+           "color" : "#199be2",
            "h" : "5"
        }],
        "sliceDisplay" : "Dir and Offirs",                 
@@ -513,9 +536,10 @@
        "product" : "Employment Practices Liability",
        "name" : "Employment Practices Liability",
        "group" : "Business Of Medicine",
-       "color" : "#7ad9f4",
+       "color" : "#219bdd",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "150,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -524,7 +548,7 @@
            "h" : "5"
        },
        {
-           "color" : "#7ad9f4",
+           "color" : "#219bdd",
            "h" : "5"
        }],
        "sliceDisplay" : "Emp Practices",                 
@@ -535,9 +559,10 @@
        "product" : "Errors and Omissions",
        "name" : "Errors and Omissions",
        "group" : "Business Of Medicine",
-       "color" : "#03556d",
+       "color" : "#13acff",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "150,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -546,7 +571,7 @@
            "h" : "5"
        },
        {
-           "color" : "#03556d",
+           "color" : "#13acff",
            "h" : "5"
        }],
        "sliceDisplay" : "Errors and Omiss.",                 
@@ -559,9 +584,10 @@
        "product" : "Pollution",
        "name" : "Pollution",
        "group" : "Business Of Medicine",
-       "color" : "#099ec8",
+       "color" : "#1fa9f0",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "150,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -570,7 +596,7 @@
            "h" : "5"
        },
        {
-           "color" : "#099ec8",
+           "color" : "#1fa9f0",
            "h" : "5"
        }],
        "sliceDisplay" : "Pollution",                 
@@ -581,9 +607,10 @@
        "product" : "Pandemic",
        "name" : "Pandemic",
        "group" : "Business Of Medicine",
-       "color" : "#099ecc",
+       "color" : "#13acff",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "150,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -592,7 +619,7 @@
            "h" : "5"
        },
        {
-           "color" : "#099ecc",
+           "color" : "#13acff",
            "h" : "5"
        }],
        "sliceDisplay" : "Pandemic",                 
@@ -603,9 +630,33 @@
        "product" : "Workers' Compensation",
        "name" : "Workers' Compensation",
        "group" : "Business Of Medicine",
+       "color" : "#1ac8e6",
+       "deductibleColor" : "#000000",
+       "decutible" : "150,000",
+       "deductibles" : [{
+           "color" : "#000000",
+           "h" : "10"
+       },
+       {
+           "color" : "#000000",
+           "h" : "5"
+       },
+       {
+           "color" : "#1ac8e6",
+           "h" : "5"
+       }],       
+       "sliceDisplay" : "Work Comp.",                    
+       "including" : []
+    },
+    {
+       "id" : 29,
+       "product" : "Workplace Violence",
+       "name" : "Workplace Violence",
+       "group" : "Business Of Medicine",
        "color" : "#85d8f2",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "150,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -617,28 +668,6 @@
            "color" : "#85d8f2",
            "h" : "5"
        }],       
-       "sliceDisplay" : "Work Comp.",                    
-       "including" : []
-    },
-    {
-       "id" : 29,
-       "product" : "Workplace Violence",
-       "name" : "Workplace Violence",
-       "group" : "Business Of Medicine",
-       "color" : "#036886",
-       "deductibleColor" : "#000000",
-       "deductible" : [{
-           "color" : "#000000",
-           "h" : "10"
-       },
-       {
-           "color" : "#000000",
-           "h" : "5"
-       },
-       {
-           "color" : "#036886",
-           "h" : "5"
-       }],       
        "sliceDisplay" : "Work Violence.",                    
        "including" : []
     },
@@ -647,9 +676,10 @@
        "product" : "Medical Professional Liability and Cyber Plus",
        "name" : "Cyber",
        "group" : "Regulation Of Medicine",
-       "color" : "#F24F00",
+       "color" : "#7151d8",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "150,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -658,7 +688,7 @@
            "h" : "5"
        },
        {
-           "color" : "#F24F00",
+           "color" : "#7151d8",
            "h" : "5"
        }],       
        "sliceDisplay" : "Cyber Plus",                           
@@ -682,9 +712,10 @@
        "product" : "Medical Professional Liability and Cyber Plus",
        "name" : "Regulatory",
        "group" : "Regulation Of Medicine",
-       "color" : "#c34001",
+       "color" : "#6718d2",
        "deductibleColor" : "#000000",
-       "deductible" : [{
+       "decutible" : "150,000",
+       "deductibles" : [{
            "color" : "#000000",
            "h" : "10"
        },
@@ -693,7 +724,7 @@
            "h" : "5"
        },
        {
-           "color" : "#c34001",
+           "color" : "#6718d2",
            "h" : "5"
        }],       
        "sliceDisplay" : "Regulatory",                           

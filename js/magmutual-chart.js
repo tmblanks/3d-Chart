@@ -40,12 +40,15 @@ function loadMagProduct(product){
    var magProduct = new MagProduct();
    
    magProduct.id = product.id;
+   magProduct.sliceDisplay = product.sliceDisplay;   
    magProduct.product = product.product;
    magProduct.name = product.name;
    magProduct.group = product.group;
    magProduct.color = product.color;
    magProduct.deductibleColor = product.deductibleColor;   
    magProduct.including = product.including;
+   magProduct.loadDeductibles(product.deductibles);
+   magProduct.deductible = product.deductible;
    
    
    if(typeof product.h === "undefined"){
@@ -74,8 +77,7 @@ function populateSelectedPoint(point){
     $('#riskExposure').html(point.name);
     $('#occurrenceLimit').html("$" + $.number(point.productMag.occurrenceLimit));
     $('#aggregateLimit').html("$" + $.number(point.productMag.aggregateLimit));
-    $('#deductible').html("$" + $.number(point.productMag.deductible));
-    
+    $('#deductible').html("$" + $.number(point.productMag.deductible));    
 }
 
 loadMappingData();
