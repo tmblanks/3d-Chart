@@ -8,8 +8,87 @@ body {
     letter-spacing: 0.0625em;
 }
 
+.default-box-color{
+    background-color: #1a2be6;
+}
+
+
+.borderless li {
+    border: none;
+}
+
+.borderless ul {
+    border: none;
+}
+
+.box-size{
+    display: inline-block;  
+    width: 10px;
+    height: 10px;
+    line-height: 10px;
+}
+
+.c-1999ec{
+    background-color: #1999ec;    
+}
+
+.c-1fa9f0{
+    background-color: #1fa9f0;
+}
+
+.c-1399ff{
+    background-color: #1399ff;
+}
+
+.c-199be2{
+    background-color: #199be2;
+}
+
+.c-219bdd{
+    background-color: #219bdd;
+}
+
+.c-13acff{
+    background-color: #13acff;
+}
+
+.c-2c9ad3{
+    background-color: #2c9ad3;
+}
+
+.c-0383c8{
+    background-color: #0383c8;
+}
+
+.c-1ac8e6{
+    background-color: #1ac8e6;
+}
+
+.c-85d8f2{
+    background-color: #85d8f2;
+}
+
+.c-7151d8{
+    background-color: #7151d8;
+}
+
+.c-6718d2{
+    background-color: #6718d2;
+}
+
 .caption-label{
     font-weight: bold;
+}
+
+.data-overflow{
+    height: 250px;
+    overflow: scroll;    
+    overflow-y: scroll;
+    overflow-x: hidden;    
+}
+
+.default-box-color{
+    background-color: #1a2be6;
 }
 
 .header .logo h1{
@@ -24,6 +103,10 @@ body {
     line-height: 30px;                
 }
 
+.ledger-padding-spacer{
+    padding-right: 30px;
+}
+
 .numeric-label{
     text-align: right;
 }
@@ -35,6 +118,16 @@ body {
 .panel-title-custom{                
     padding-left: 190px; 
     font-size: 16px;
+}
+
+.padding-bottom{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.padding-top{
+    padding-top: 0px;
+    margin-top: 0px;
 }
 
 .right-padding-spacer{
@@ -55,7 +148,6 @@ body {
 .top-padding-spacer{
     padding-top: 10px;
 }
-
 
 slider {
     margin: 10px;

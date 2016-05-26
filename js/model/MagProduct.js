@@ -32,13 +32,13 @@ MagProduct.prototype.loadDeductibles = function(deds){
    tempArray = new Array(); 
    
    $.each(deds, function(i, value){
-        d = new MagHighChartDeductible();
+        deductible = new MagHighChartDeductible();
         
-        d.id = i;
-        d.color = value.color;
-        d.h = value.h;
+        deductible.id = i;
+        deductible.color = value.color;
+        deductible.h = value.h;
         
-        tempArray.push(d);
+        tempArray.push(deductible);
    });
    
    this.deductibles = tempArray;

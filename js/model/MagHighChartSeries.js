@@ -13,6 +13,10 @@ MagHighChartSeries.prototype.addChartSeries = function(chartSeries){
     this.series.push(chartSeries);
 };
 
+MagHighChartSeries.prototype.getChartSeries = function(){    
+    return this.series;
+};
+
 MagHighChartSeries.prototype.toString = function(){
    var str = "{MagHighChartSeries: ";
    

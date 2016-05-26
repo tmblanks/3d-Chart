@@ -9,6 +9,7 @@
 var magChartSeries = null;
 var defaultH = 20;
 var defaultD = 80;
+var defaultY = 20;
         
 function loadMappingData(){
     var chartSeries = new ChartSeries();
@@ -61,8 +62,15 @@ function loadMagProduct(product){
    if(typeof product.d === "undefined"){
       magProduct.d = defaultD;
    }
-   else{
+   else{ 
       magProduct.d = product.d;
+   }
+   
+   if(typeof product.y === "undefined"){
+      magProduct.y = defaultY;
+   }
+   else{ 
+      magProduct.y = product.y;
    }
    
    magProduct.buildDisplay();
